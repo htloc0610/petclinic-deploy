@@ -5,7 +5,7 @@ image:
     tag: 24e6a46
   discoveryServer:
     repository: anwirisme/spring-petclinic-discovery-server
-    tag: main
+    tag: fcc39cc
   customersService:
     repository: anwirisme/spring-petclinic-customers-service
     tag: 24e6a46
