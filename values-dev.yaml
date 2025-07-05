@@ -23,7 +23,7 @@ image:
     tag: 24e6a46
   configServer:
     repository: anwirisme/spring-petclinic-config-server
-    tag: 24e6a46
+    tag: 0af84af
 service:
   discoveryServer:
     port: 8761
